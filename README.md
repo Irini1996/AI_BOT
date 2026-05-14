@@ -1,4 +1,4 @@
-markdown# 🤖 AI Chatbot with Django & Ollama
+# 🤖 AI Chatbot with Django & Ollama
 
 An intelligent chatbot that combines web scraping, local AI processing, and smart caching for fast and intelligent responses.
 
